@@ -1,0 +1,15 @@
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\bin\Debug\net7.0\StringTest.exe
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\bin\Debug\net7.0\StringTest.deps.json
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\bin\Debug\net7.0\StringTest.runtimeconfig.json
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\bin\Debug\net7.0\StringTest.dll
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\bin\Debug\net7.0\StringTest.pdb
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.csproj.AssemblyReference.cache
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.AssemblyInfoInputs.cache
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.AssemblyInfo.cs
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.csproj.CoreCompileInputs.cache
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.dll
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\refint\StringTest.dll
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.pdb
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\StringTest.genruntimeconfig.cache
+C:\Users\AbiramiSingaravelu\OneDrive - Syncfusion\Desktop\Assignment\StringTest\obj\Debug\net7.0\ref\StringTest.dll
